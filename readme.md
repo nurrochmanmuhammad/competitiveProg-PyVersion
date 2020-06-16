@@ -1,3 +1,3 @@
-#**Competitive Programming in Python version**
+# **Competitive Programming in Python version**
 
-##1. Pluses count from given input
+## 1. Pluses count from given input
